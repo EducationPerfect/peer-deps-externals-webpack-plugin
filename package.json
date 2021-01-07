@@ -1,6 +1,6 @@
 {
   "name": "@educationperfect/peer-deps-externals-webpack-plugin",
-  "version": "1.0.5-beta.0",
+  "version": "1.0.5",
   "description": "Webpack plugin to automatically add a library's peerDependencies to its bundle's externals.",
   "repository": "github:Updater/peer-deps-externals-webpack-plugin",
   "bugs": "https://github.com/EducationPerfect/peer-deps-externals-webpack-plugin/issues",
